@@ -15,7 +15,7 @@ Clientes cadastrados no clube viva acumulam pontos em suas compras que  são efe
 
 
 # Modelagem Relacional
-
+![Lógico_desfio boticario](https://github.com/ericmartins1929/Primeiro-Projeto-do-Programa-Desenvolve-/assets/140113430/0c3fb599-67cf-413f-b43e-5d8873bc9e6f)
 
 # Modelagem Física
 
