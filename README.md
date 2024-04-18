@@ -10,3 +10,12 @@ Clientes cadastrados no clube viva acumulam pontos em suas compras que  são efe
 # Modelagem Conceitual 
 
 ![Conceitual_desafio boticario](https://github.com/ericmartins1929/Primeiro-Projeto-do-Programa-Desenvolve-/assets/140113430/c2cedea0-dc0e-4f76-827d-084f339b90c5)
+
+
+
+
+# Modelagem Relacional
+
+
+# Modelagem Física
+
