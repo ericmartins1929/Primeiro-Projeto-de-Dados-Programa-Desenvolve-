@@ -10,7 +10,8 @@ Os produtos são produzidos nas fábricas do grupo boticário . Clientes cadastr
 
 # Modelagem Conceitual 
 
-![Conceitual_desafio boticario eric](https://github.com/ericmartins1929/Primeiro-Projeto-de-Dados-Programa-Desenvolve-/assets/140113430/ba86a002-a84d-401a-9975-9859a99a1bb5)
+![Conceitual_desafio boticario eric](https://github.com/ericmartins1929/Primeiro-Projeto-de-Dados-Programa-Desenvolve-do-Grupo-Boticario/assets/140113430/353e2c78-9eb2-4fa8-ad16-876fb12d0711)
+
 
 
 
