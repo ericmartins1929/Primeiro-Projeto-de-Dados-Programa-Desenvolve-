@@ -22,5 +22,6 @@ Os produtos são produzidos nas fábricas do grupo boticário . Clientes cadastr
 
 
 # Modelagem Física
-![Parte física](https://github.com/ericmartins1929/Primeiro-Projeto-do-Programa-Desenvolve-/assets/140113430/14bced14-2eb5-486b-ac07-27201b8c7284)
+
+![Parte física](https://github.com/ericmartins1929/Primeiro-Projeto-de-Dados-Programa-Desenvolve-do-Grupo-Boticario/assets/140113430/3eb244ae-4286-4f17-94f9-0f048eb40395)
 
