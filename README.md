@@ -18,7 +18,7 @@ Os produtos são produzidos nas fábricas do grupo boticário . Clientes cadastr
 
 
 # Modelagem Lógica
-![Lógico_desfio boticario](https://github.com/ericmartins1929/Primeiro-Projeto-do-Programa-Desenvolve-/assets/140113430/0c3fb599-67cf-413f-b43e-5d8873bc9e6f)
+![Lógico_desfio boticario](https://github.com/ericmartins1929/Primeiro-Projeto-de-Dados-Programa-Desenvolve-do-Grupo-Boticario/assets/140113430/f1e2ee03-1402-4da8-9887-2a0b71e6036a)
 
 
 # Modelagem Física
